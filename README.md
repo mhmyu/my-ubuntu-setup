@@ -10,7 +10,7 @@
   - [Music](#music)
   - [Video](#video)
   - [Browsers](#browsers)
-    - [Safari Extensions](#safari-extensions)
+    - [Google Chrome Extensions](#safari-extensions)
 - [Command Line Apps](#command-line-apps)
 - [My wonderful world of iOS](#my-wonderful-world-of-ios-)
 - [Similar Setups](#similar-setups)
