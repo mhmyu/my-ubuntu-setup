@@ -2,22 +2,14 @@
 
 # my-ubuntu-os
 
-- [Applications](#applications)
-  - [Productivity](#productivity)
-  - [Code](#code)
-  - [Social](#social)
-  - [Design](#design)
-  - [Video](#video)
-  - [Browsers](#browsers)
-- [Command Line Apps](#command-line-apps)
+[Productivity](#productivity) - [Code](#code) - [Browsers](#browsers) - [SVG](#SVG)  - [Design](#Design)  - [Video](#video)
 
-# Applications
-# Productivity
+# productivity
 - [Taskade](https://www.taskade.com/)
 - [gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro)
 - [obsidian](https://obsidian.md/) `A second brain, for you, forever.`
 
-# Code
+# code
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [vim](https://www.vim.org/)
 - [neoviim](https://neovim.io/)
@@ -25,14 +17,28 @@
 for your desktop`
 - [hyper](https://hyper.is/)
 
+# browsers
+- [Blisk Browser](https://blisk.io/) `Cross-Device Testing
+Done Right`
+- [Firefox Developer](https://www.mozilla.org/en-US/firefox/developer/)
+- [firefox browser](https://www.mozilla.org/en-US/firefox/new/)
+- [google chrome](https://www.google.com/intl/en_us/chrome/)
+- [sidekick](https://www.meetsidekick.com/) `A productivity browser for focused work`
+- [microsoft edge](https://www.microsoft.com/en-us/edge)
+- [tangram](https://github.com/sonnyp/Tangram) `Browser for you pinned tabs`
+- [responsively](https://responsively.app/) `Develop responsive web apps 5x faster!`
+- [pennywise](https://github.com/kamranahmedse/pennywise) `Cross-platform application to open website or media in a floating window`
+
+# SVG
+- [Boxy SVG](https://boxy-svg.com/)
+- [OhMySVG](https://github.com/sonnyp/OhMySVG)
+- [inkscape](https://inkscape.org/)
+
 # Design
 - [Blender](https://www.blender.org/)
 - [Figma Linux](https://github.com/Figma-Linux/figma-linux)
 - [GIMP](https://www.gimp.org/)
-- [Boxy SVG](https://boxy-svg.com/)
-- [inkscape](https://inkscape.org/)
 - [removebg](https://www.remove.bg/a/background-remover-windows-mac-linux)
-- [OhMySVG](https://github.com/sonnyp/OhMySVG)
 - [krita](https://krita.org/en/)
 - [digikam](https://www.digikam.org/)
 - [Dot Matrix](https://github.com/lainsce/dot-matrix) `The glyph playground of creativity from simple lines`
@@ -66,18 +72,6 @@ for your desktop`
 - [mixxx](https://mixxx.org/)
 - [lmms](https://lmms.io/) `Let's make music`
 - [rosegarden](https://www.rosegardenmusic.com/) `Music software for linux`
-
-# Browser
-- [Blisk Browser](https://blisk.io/) `Cross-Device Testing
-Done Right`
-- [Firefox Developer](https://www.mozilla.org/en-US/firefox/developer/)
-- [firefox browser](https://www.mozilla.org/en-US/firefox/new/)
-- [google chrome](https://www.google.com/intl/en_us/chrome/)
-- [sidekick](https://www.meetsidekick.com/) `A productivity browser for focused work`
-- [microsoft edge](https://www.microsoft.com/en-us/edge)
-- [tangram](https://github.com/sonnyp/Tangram) `Browser for you pinned tabs`
-- [responsively](https://responsively.app/) `Develop responsive web apps 5x faster!`
-- [pennywise](https://github.com/kamranahmedse/pennywise) `Cross-platform application to open website or media in a floating window`
 
 # image compressor
 - [Curtail](https://github.com/Huluti/Curtail) `Simple & useful image compressor.`
