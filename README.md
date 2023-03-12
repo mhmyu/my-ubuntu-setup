@@ -69,7 +69,6 @@ Done Right`
 # Audio
 - [Audacity](https://www.audacityteam.org/) `Free, open source, cross-platform audio software`
 - [mixxx](https://mixxx.org/)
-- [lmms](https://lmms.io/) `Let's make music`
 - [rosegarden](https://www.rosegardenmusic.com/) `Music software for linux`
 
 # image-compressor
@@ -79,6 +78,7 @@ Done Right`
 
 # wp-dev
 - [localwp](https://localwp.com/) `The #1 local WordPress development tool`
+- [DevKinsta](https://kinsta.com/devkinsta/) `Your Free Local WordPress Development Suite`
 
 # clipboard-manager
 - [CopyQ](https://github.com/hluk/CopyQ) `Clipboard manager with advanced features`
