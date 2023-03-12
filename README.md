@@ -1,8 +1,8 @@
 > inspired by [my-mac-os by Nikita](https://github.com/nikitavoloboev/my-mac-os)
 
-# my-ubuntu-os
+# my ubuntu setup
 
-[Productivity](#productivity) - [Code](#code) - [Browsers](#browsers) - [SVG](#SVG)  - [Design](#Design)  - [Video](#video)
+[Productivity](#productivity) - [Code](#code) - [Browsers](#browsers) - [SVG](#SVG)  - [Design](#Design)  - [Video](#video) - [screencast](#screencast) - [Screen Recorder](#screen-recorder) - [Image](#Image) - [Audio](#Audio) - [Image Compressor](#image-compressor) - [WP Dev](#wp-dev) - [Clipboard manager](#clipboard-manager) - [social](#social) - [Email App](#email-app)
 
 # productivity
 - [Taskade](https://www.taskade.com/)
@@ -12,10 +12,9 @@
 # code
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [vim](https://www.vim.org/)
-- [neoviim](https://neovim.io/)
+- [neovim](https://neovim.io/)
 - [RunJs](https://runjs.app/) `The JavaScript playground
 for your desktop`
-- [hyper](https://hyper.is/)
 
 # browsers
 - [Blisk Browser](https://blisk.io/) `Cross-Device Testing
@@ -55,7 +54,7 @@ Done Right`
 # screencast
 - [screenkey](https://gitlab.com/screenkey/screenkey) `A screencast tool to display your keys`
 
-# Scren Recorder
+# screen-recorder
 - [peek](https://github.com/phw/peek) `Peek - an animated GIF recorder`
 - [kazam](https://github.com/hzbd/kazam) `A screencasting program created with design in mind.`
 - [Kooha](https://github.com/SeaDve/Kooha/) `Elegantly record your screen`
@@ -73,15 +72,15 @@ Done Right`
 - [lmms](https://lmms.io/) `Let's make music`
 - [rosegarden](https://www.rosegardenmusic.com/) `Music software for linux`
 
-# image compressor
+# image-compressor
 - [Curtail](https://github.com/Huluti/Curtail) `Simple & useful image compressor.`
 - [YOGA Image Optimizer](https://yoga.flozz.org/) `YOGA Image Optimizer is a free tool to convert and optimize JPEGs, PNGs and WebP image files.`
 - [Trimage image compressor](https://trimage.org/) `A cross-platform tool for losslessly optimizing PNG and JPG files for web.`
 
-# WordPress Development
+# wp-dev
 - [localwp](https://localwp.com/) `The #1 local WordPress development tool`
 
-# Clipboard manager
+# clipboard-manager
 - [CopyQ](https://github.com/hluk/CopyQ) `Clipboard manager with advanced features`
 
 # social
