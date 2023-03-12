@@ -14,72 +14,88 @@
 # Applications
 # Productivity
 - [Taskade](https://www.taskade.com/)
-- Audacity
+
+# Code
+- visual studio code
+- vim
+- neovim
+
+# Design
 - Blender
-- Blisk Browser
+- Figma Linux
+- GIMP
 - Boxy SVG
+- inkscape
+- removebg
+- oh my svg
+- krita
+
+# Video Editor
+- kdenlive
+- shotcut
+
+# Scren Recorder
+- peek
+- kazam
+- kooha
+
+# Image
+- Darktable
+
+# Audio
+- Audacity
+
+# Browser
+- Blisk Browser
+- Firefox Developer
+- firefox browser
+- google chrome
+- sidekick webrowser
+- microsoft edge
+- tangram
+- responsivelyapp
+
+# miscellaneous
 - brasero
 - CopyQ
 - Curtail
-- Darktable
 - digikam
 - Dot Matrix
-- Figma Linux
-- Firefox Developer
-- firefox browser
 - fontforge
 - free download
 - freeCAD
-- GIMP
-- google chrome
 - gThumb
 - handbrake
 - hyper
 - imagemagick
-- inkscape
-- kazam
-- kdenlive
-- kooha
-- krita
 - leocad
 - lmms
 - local
 - mailspring
 - mormoset
 - meshlab
-- microsoft edge
 - natron
 - mixxx
-- neovim
 - obsidian
-- oh my svg
 - openscad
 - openshot
-- peek
 - pennywise
 - pitivi
 - pomodoro
 - rawtheerapee
-- removebg
-- responsivelyapp
 - rhytmbox
 - rosegarden
 - runjs
 - screenkey
-- shotcut
 - shotwell
-- sidekick webrowser
 - discord
 - slack
 - solvespace
 - swach
 - sweet home 3d
 - synfig studio
-- tangram
 - telegram
 - trimage
-- vim
-- visual studio code
 - vlc
 - whatsapp for linux
 - yoga image
