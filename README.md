@@ -19,6 +19,9 @@
 - visual studio code
 - vim
 - neovim
+- [RunJs](https://runjs.app/) `The JavaScript playground
+for your desktop`
+- hyper
 
 # Design
 - Blender
@@ -29,14 +32,16 @@
 - removebg
 - oh my svg
 - krita
+- digikam
 
 # Video Editor
 - kdenlive
 - shotcut
+- [handbrake](https://handbrake.fr/) `The open source video transcoder`
 
 # Scren Recorder
-- peek
-- kazam
+- [peek](https://github.com/phw/peek) `Peek - an animated GIF recorder`
+- [kazam](https://github.com/hzbd/kazam) `A screencasting program created with design in mind.`
 - kooha
 
 # Image
@@ -55,22 +60,28 @@
 - tangram
 - responsivelyapp
 
+# image compressor
+- [Curtail](https://github.com/Huluti/Curtail) `Simple & useful image compressor.`
+
+# WordPress Development
+- [localwp](https://localwp.com/) `The #1 local WordPress development tool`
+
+# Clipboard manager
+- [CopyQ](https://github.com/hluk/CopyQ) `Clipboard manager with advanced features`
+
+# social
+- whatsapp for linux
+- telegram
+
 # miscellaneous
-- brasero
-- CopyQ
-- Curtail
-- digikam
 - Dot Matrix
 - fontforge
 - free download
 - freeCAD
 - gThumb
-- handbrake
-- hyper
 - imagemagick
 - leocad
 - lmms
-- local
 - mailspring
 - mormoset
 - meshlab
@@ -85,7 +96,6 @@
 - rawtheerapee
 - rhytmbox
 - rosegarden
-- runjs
 - screenkey
 - shotwell
 - discord
@@ -94,10 +104,8 @@
 - swach
 - sweet home 3d
 - synfig studio
-- telegram
 - trimage
 - vlc
-- whatsapp for linux
 - yoga image
 
 
