@@ -1,4 +1,4 @@
-> inspired by [my-mac-os by Nikita](https://github.com/nikitavoloboev/my-mac-os)
+> inspired by [my-mac-os by Nikita](https://github.com/nikitavoloboev/my-mac)
 
 # my ubuntu setup
 
@@ -8,6 +8,7 @@
 - [Taskade](https://www.taskade.com/)
 - [gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro)
 - [obsidian](https://obsidian.md/) `A second brain, for you, forever.`
+- [Superposition](https://superposition.design/)
 
 # code
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -17,8 +18,7 @@
 for your desktop`
 
 # browsers
-- [Blisk Browser](https://blisk.io/) `Cross-Device Testing
-Done Right`
+- [Blisk Browser](https://blisk.io/) `Cross-Device Testing Done Right`
 - [Firefox Developer](https://www.mozilla.org/en-US/firefox/developer/)
 - [firefox browser](https://www.mozilla.org/en-US/firefox/new/)
 - [google chrome](https://www.google.com/intl/en_us/chrome/)
@@ -39,7 +39,6 @@ Done Right`
 - [GIMP](https://www.gimp.org/)
 - [removebg](https://www.remove.bg/a/background-remover-windows-mac-linux)
 - [krita](https://krita.org/en/)
-- [digikam](https://www.digikam.org/)
 - [Dot Matrix](https://github.com/lainsce/dot-matrix) `The glyph playground of creativity from simple lines`
 
 # Video
@@ -49,7 +48,6 @@ Done Right`
 - [openshot](https://www.openshot.org/)
 - [vlc](https://www.videolan.org/vlc/)
 - [Pitivi](https://www.pitivi.org/) `Pitivi  is a Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.`
-- [natron](https://github.com/NatronGitHub/Natron) `Open-source video compositing software.`
 
 # screencast
 - [screenkey](https://gitlab.com/screenkey/screenkey) `A screencast tool to display your keys`
@@ -60,16 +58,11 @@ Done Right`
 - [Kooha](https://github.com/SeaDve/Kooha/) `Elegantly record your screen`
 
 # Image
-- [Darktable](https://www.darktable.org/) `darktable is an open source photography workflow application and raw developer.`
-- [shotwell](https://github.com/GNOME/shotwell) `Shotwell Photo Manager`
-- [rawtheerapee](https://www.rawtherapee.com/) `RawTherapee is a free, cross-platform raw image processing program`
 - [gThumb](https://gitlab.gnome.org/GNOME/gthumb) `An image viewer and browser utility for the GNOME environment.`
 - [imagemagick](https://imagemagick.org/index.php)
 
 # Audio
 - [Audacity](https://www.audacityteam.org/) `Free, open source, cross-platform audio software`
-- [mixxx](https://mixxx.org/)
-- [rosegarden](https://www.rosegardenmusic.com/) `Music software for linux`
 
 # image-compressor
 - [Curtail](https://github.com/Huluti/Curtail) `Simple & useful image compressor.`
@@ -86,22 +79,12 @@ Done Right`
 # social
 - [WhatsApp for linux](https://github.com/eneshecan/whatsapp-for-linux)
 - [telegram](https://desktop.telegram.org/)
-- [discord](https://discord.com/)
-- [slack](https://slack.com/)
 
 # email app
 - [mailspring](https://getmailspring.com/download) `Mailspring - The best free email app`
 
-# color management
-- [Swach](https://swach.io/) `A robust color management tool for the modern age.`
-
 # 3D
-- [solvespace](https://solvespace.com/index.pl)
-- [freeCAD](https://www.freecad.org/)
-- [leoCAD](https://www.leocad.org/) `Virtual LEGO CAD Software`
 - [sweet home 3d](https://www.sweethome3d.com/)
-- [openSCAD](https://openscad.org/)
-- [meshlab](https://www.meshlab.net/) `open source system for processing and editing 3D triangular meshes.`
 
 # animation
 - [synfig studio](https://www.synfig.org/) `Open-source 2D Animation Software`
@@ -109,3 +92,5 @@ Done Right`
 # font
 - [fontforge](https://fontforge.org/en-US/) `Open Souece Font Editor`
 
+# cli
+- nvm
