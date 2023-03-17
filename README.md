@@ -91,6 +91,10 @@ for your desktop`
 
 # font
 - [fontforge](https://fontforge.org/en-US/) `Open Souece Font Editor`
+- [nerdfonts](https://www.nerdfonts.com/)
+
+# terminal
+- [starship](https://starship.rs/)
 
 # cli
 - nvm
