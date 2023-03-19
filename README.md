@@ -98,3 +98,7 @@ for your desktop`
 
 # cli
 - nvm
+
+# cleaner
+- [Stacer](https://github.com/oguzhaninan/Stacer)
+- [bleachbit](https://github.com/bleachbit/bleachbit)
