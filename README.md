@@ -97,8 +97,10 @@ for your desktop`
 - [starship](https://starship.rs/)
 
 # cli
-- nvm
+- [nvm](https://github.com/nvm-sh/nvm)
+
+# download manager
+- [free download manager](https://www.freedownloadmanager.org/)
 
 # cleaner
 - [Stacer](https://github.com/oguzhaninan/Stacer)
-- [bleachbit](https://github.com/bleachbit/bleachbit)
