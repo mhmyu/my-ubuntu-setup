@@ -14,8 +14,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [vim](https://www.vim.org/)
 - [neovim](https://neovim.io/)
-- [RunJs](https://runjs.app/) `The JavaScript playground
-for your desktop`
+- [RunJs](https://runjs.app/) `The JavaScript playground for your desktop`
 
 # browsers
 - [Blisk Browser](https://blisk.io/) `Cross-Device Testing Done Right`
@@ -29,25 +28,16 @@ for your desktop`
 - [pennywise](https://github.com/kamranahmedse/pennywise) `Cross-platform application to open website or media in a floating window`
 
 # SVG
-- [Boxy SVG](https://boxy-svg.com/)
-- [OhMySVG](https://github.com/sonnyp/OhMySVG)
+- [Boxy SVG](https://boxy-svg.com/) `sudo snap install boxy-svg`
 - [inkscape](https://inkscape.org/)
 
 # Design
 - [Blender](https://www.blender.org/)
-- [Figma Linux](https://github.com/Figma-Linux/figma-linux)
 - [GIMP](https://www.gimp.org/)
-- [removebg](https://www.remove.bg/a/background-remover-windows-mac-linux)
-- [krita](https://krita.org/en/)
-- [Dot Matrix](https://github.com/lainsce/dot-matrix) `The glyph playground of creativity from simple lines`
 
 # Video
-- [Kdenlive](https://kdenlive.org/en/) `Free and Open Source Video Editor`
-- [Shotcut](https://shotcut.org/) `Shotcut is a free, open source, cross-platform video editor.`
 - [handbrake](https://handbrake.fr/) `The open source video transcoder`
 - [openshot](https://www.openshot.org/)
-- [vlc](https://www.videolan.org/vlc/)
-- [Pitivi](https://www.pitivi.org/) `Pitivi  is a Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.`
 
 # screencast
 - [screenkey](https://gitlab.com/screenkey/screenkey) `A screencast tool to display your keys`
@@ -61,9 +51,6 @@ for your desktop`
 - [gThumb](https://gitlab.gnome.org/GNOME/gthumb) `An image viewer and browser utility for the GNOME environment.`
 - [imagemagick](https://imagemagick.org/index.php)
 
-# Audio
-- [Audacity](https://www.audacityteam.org/) `Free, open source, cross-platform audio software`
-
 # image-compressor
 - [Curtail](https://github.com/Huluti/Curtail) `Simple & useful image compressor.`
 - [YOGA Image Optimizer](https://yoga.flozz.org/) `YOGA Image Optimizer is a free tool to convert and optimize JPEGs, PNGs and WebP image files.`
@@ -76,21 +63,10 @@ for your desktop`
 # clipboard-manager
 - [CopyQ](https://github.com/hluk/CopyQ) `Clipboard manager with advanced features`
 
-# social
-- [WhatsApp for linux](https://github.com/eneshecan/whatsapp-for-linux)
-- [telegram](https://desktop.telegram.org/)
-
-# email app
-- [mailspring](https://getmailspring.com/download) `Mailspring - The best free email app`
-
-# 3D
-- [sweet home 3d](https://www.sweethome3d.com/)
-
 # animation
 - [synfig studio](https://www.synfig.org/) `Open-source 2D Animation Software`
 
 # font
-- [fontforge](https://fontforge.org/en-US/) `Open Souece Font Editor`
 - [nerdfonts](https://www.nerdfonts.com/)
 
 # terminal
@@ -104,3 +80,5 @@ for your desktop`
 
 # cleaner
 - [Stacer](https://github.com/oguzhaninan/Stacer)
+
+- kmag flatpak
