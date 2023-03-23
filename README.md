@@ -21,6 +21,14 @@
 - [Firefox Developer](https://www.mozilla.org/en-US/firefox/developer/)
 - [firefox browser](https://www.mozilla.org/en-US/firefox/new/)
 - [google chrome](https://www.google.com/intl/en_us/chrome/)
+  > google chrome extensions
+  - [daily.dev](https://chrome.google.com/webstore/detail/dailydev-where-developers/jlmpjdjjbgclbocgajdjefcidcncaied)
+  - [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+  - [html.to.design](https://chrome.google.com/webstore/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed)
+  - [Scribe](https://chrome.google.com/webstore/detail/scribe-%E2%80%94-documentation-so/okfkdaglfjjjfefdcppliegebpoegaii)
+  - [Social Share Preview](https://chrome.google.com/webstore/detail/social-share-preview/ggnikicjfklimmffbkhknndafpdlabib)
+  - [Tango](https://chrome.google.com/webstore/detail/tango-how-to-guides-and-s/lggdbpblkekjjbobadliahffoaobaknh)
+  - [Taskade](https://chrome.google.com/webstore/detail/taskade-team-tasks-notes/hcobdfnjjaceclfdjpmmpiknimccjpmf)
 - [sidekick](https://www.meetsidekick.com/) `A productivity browser for focused work`
 - [microsoft edge](https://www.microsoft.com/en-us/edge)
 - [tangram](https://github.com/sonnyp/Tangram) `Browser for you pinned tabs`
